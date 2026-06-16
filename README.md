@@ -1,6 +1,6 @@
 # DEX Swapper
 
-![DEX Swapper — operator dashboard (wallet balances anonymized)](assets/dex-swapper-featured.png)
+![DEX Swapper — operator dashboard](assets/dex-swapper-featured.png)
 
 Classic **web DEX interfaces** (1inch, Uniswap, aggregators in the browser) are built for casual users: connect wallet, approve, pick route, confirm in MetaMask, wait for RPC, hope the mempool does not sandwich you. For an operator running **dozens of size ladders per session**, that model breaks down — every swap becomes ten UI steps, unpredictable latency, and zero control over gas tiers or recovery when a nonce sticks.
 
